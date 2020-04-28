@@ -1,0 +1,49 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Lokesh U",
+                "role" : "Multi skill Trainer",
+                "email" : "lokesh26.apssdc@gmail.com",
+                "mobile": "+91 9885964308"
+            },
+            "education":[
+                {
+                    "degree":"Post Graduation",
+                    "institution": "MCA-VIIT 2012 - 2015"
+                },
+                {
+                    "degree":"Graduation",
+                    "institution":"Degree (B.SC) from Hindu College in 2009 – 2012 with"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":" MPC from GCSS Junior College in 2007 - 2009"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from GCSS Junior College in 2007"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5,CSS,Bootstrap"
+                },
+                {
+                    "t":"Programming Languages",
+                    "l":"C,Java"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows"
+                },
+                {
+                    "t":"Apps",
+                    "l":"MIT,Android"
+                }
+            ]
+        }
+        
+    ]
+}

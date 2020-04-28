@@ -1,0 +1,45 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Lavanya Polamarasetty",
+                "role" : "Technical skill Trainer",
+                "email" : "lavanya_p@apssdc.in",
+                "mobile": "+91 9505305452"
+            },
+            "education":[
+                
+                {
+                    "degree":"B.Tech",
+                    "institution":"I completed my Graduation in the Stream of Electronics and communicaation Engineering from Indo American institute of Technical campus,anakapalli in 2018"
+                },
+                {
+                    "degree":"Diploma",
+                    "institution":"I completed my Diploma in Electronics and Communication Engineering from Rajiv Gandhi R.E.C.S Polytechnic,kasimkota in 2015"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from Z.P.H High School Gajuwaka completed in 2012"
+                }
+            ],
+            "skill":[
+     
+                {
+                    "t":"Coding Skills",
+                    "l":"C,Python,Embedded C,Arduino Programming"
+                },
+        {
+                    "t":"Known Technologies",
+                    "l":"Machine Learning,Embedded systems,Internet of Things"
+                },
+        {
+                    "t":"Web Technologies",
+                    "l":"Html,css"
+                }  
+         
+            ]
+        }
+        
+    ]
+}
+
