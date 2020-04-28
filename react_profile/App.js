@@ -17,7 +17,7 @@ function App(){
     
     </header> <br/> <br/> 
         <Route exact path="/profile" component={Profile} />
-        <Route exact path="/lokesh-profile-react" component={Home} />
+        <Route exact path="/react_profile" component={Home} />
 
        
       </BrowserRouter>
